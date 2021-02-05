@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Deber_Maps_Api</string>
+    <string-array name="tipo">
+        <item>NORMAL</item>
+        <item>SATELLITE</item>
+        <item>HYBRID</item>
+        <item>TERRAIN</item>
+    </string-array>
+</resources>
